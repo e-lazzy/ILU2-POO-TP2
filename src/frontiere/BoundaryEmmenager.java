@@ -63,6 +63,6 @@ public class BoundaryEmmenager {
 			}
 		
 		}while(effetPotionMin>effetPotionMax);
-		controlEmmenager.ajouterDuide(nomVisiteur, force, effetPotionMin, effetPotionMax);
+		controlEmmenager.ajouterDruide(nomVisiteur, force, effetPotionMin, effetPotionMax);
 	}
 }
